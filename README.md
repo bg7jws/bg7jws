@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning ASM
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me, don't try.
+- 👀 And now I’m also interested in C++,Jan 2023
+
 
 <!---
 bg7jws/bg7jws is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
